@@ -1,0 +1,9 @@
+// {
+//     "compilerOptions": {
+//         "baseUrl": ".",
+//         "paths": {
+//             "*" : ["/*"]
+//         }
+//     }
+// }
+// this could work in react file structure;
